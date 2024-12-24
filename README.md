@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @1-ISBHS
 - 👀 I’m interested in ...Robotics
-- 🌱 I’m currently learning ...C,Java,Python
+- 🌱 I’m currently learning ...C, C++, Java, Python
 - 💞️ I’m looking to collaborate on ...Projects helping in progress as a CompSci College student
 - 📫 How to reach me ... isbhs.790@gmail.com
 - 😄 Pronouns: ...he/him
